@@ -1,0 +1,6 @@
+scapy
+pandas
+streamlit
+scikit-learn
+matplotlib
+plotly
